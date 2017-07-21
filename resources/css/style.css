@@ -1,17 +1,35 @@
 html {
   font-family: Verdana;
+  background-color: Black;
+  text-align: center;
 }
 
 h1 {
   font-family: Verdana;
-  font-weight: Normal;
+  font-weight: Bold;
   font-size: 50px;
   color: White;
-  text-align: center;
+  text-align: Center;
 }
 
 #download {
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
+}
+
+video {
+  text-align: center;
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
+
+h3 {
+  color: gray;
+  text-align: right;
+  font-weight: normal;
 }
